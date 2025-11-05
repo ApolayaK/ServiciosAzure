@@ -55,3 +55,12 @@ const CONFIG = {
 **Diseño**: Responsive (desktop/tablet/mobile)
 
 ---
+## 📌 Evidencia del Curso AI-900
+
+**Curso completado:** AI-900-T00 - Introducción a la inteligencia artificial en Azure
+
+[Evidencia 01 del curso AI-900](assets/img/evidencia1.png)
+
+[Evidencia 02 del curso AI-900](assets/img/evidencia2.png)
+
+> **Nota:** Esta evidencia se agrega como complemento al informe del proyecto.
