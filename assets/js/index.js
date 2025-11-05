@@ -3,17 +3,17 @@
     // ====================================
     // CONFIGURACIÓN DE AZURE
     // ====================================
-    // IMPORTANTE: Reemplaza estos valores con tus credenciales de Azure
+    // IMPORTANTE: Reemplaza estos valores con tus credenciales de Azure (ESTA EN EL INFORME)
     
     const CONFIG = {
       // Language Service (para detección de idioma y sentimiento)
-      languageKey: 'Aqui',
-      languageEndpoint: 'Aqui',
+      languageKey: 'AQUI',
+      languageEndpoint: 'AQUI',
       
       // Translator Service
-      translatorKey: 'Aqui',
-      translatorEndpoint: 'Aqui',
-      translatorRegion: 'Aui'
+      translatorKey: 'AQUI',
+      translatorEndpoint: 'AQUI',
+      translatorRegion: 'AQUI'
     };
 
     // ====================================
